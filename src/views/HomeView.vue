@@ -160,7 +160,7 @@ export default {
         border: none;
         box-shadow: 0px 2px 2px grey;
         transition: all 0.3s;
-        background-color: azure;
+        background-color: rgb(176, 255, 255);
         &:active {
             transform: translateY(2px);
             box-shadow: none;
